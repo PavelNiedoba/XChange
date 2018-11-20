@@ -50,6 +50,7 @@ import org.knowm.xchange.kraken.dto.trade.results.KrakenTradeHistoryResult.Krake
 
 public class KrakenAdaptersTest {
 
+
   @Before
   public void before() throws IOException {
 
